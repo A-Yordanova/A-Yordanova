@@ -8,8 +8,7 @@ To pursue this passion, I studied Data Science at Yandex Practicum for 8 months.
 
 ### Key Skills:
 * **Python:** `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn (sklearn)` `scipy` `lightgbm` `catboost` `xgboost` `tensorflow.keras`
-* **Machine Learning:** `linear regression` `logistic regression` `SVM` `Decision Tree` `kNN` `neural networks` `KMeans` `Isolation Forest`
+* **Machine Learning:** `Linear/Logistic regression` `SVM` `Decision Tree` `kNN` `neural networks` `KMeans` `Isolation Forest`
 * **Other Techniques:** `statistical tests` `bootstrap` `gradient boosting`
 * **Environments:** `Jupyter Notebook` `Anaconda`
 * **SQL**
-
