@@ -8,7 +8,10 @@ To pursue this passion, I studied Data Science at Yandex Practicum for 8 months.
 
 ### Key Skills:
 * **Python:** `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn (sklearn)` `scipy` `lightgbm` `catboost` `xgboost` `tensorflow.keras`
-* **Machine Learning:** `Linear/Logistic regression` `SVM` `Decision Tree` `kNN` `neural networks` `KMeans` `Isolation Forest`
-* **Other Techniques:** `statistical tests` `bootstrap` `gradient boosting`
+* **Machine Learning:** `Linear/Logistic Regression` `SVM` `Decision Tree` `kNN` `Neural Networks` `KMeans` `Isolation Forest`
+* **Other Techniques:** `statistical tests` `bootstrap` `stochastic gradient descent`
 * **Environments:** `Jupyter Notebook` `Anaconda`
 * **SQL**
+
+### Contact me:
+📧 a.yordanova@yandex.com
