@@ -15,4 +15,4 @@ To pursue this passion, I studied Data Science at Yandex Practicum for 8 months.
 
 ### Contact me:
 a.yordanova@yandex.com <br>
-www.linkedin.com/in/yordanova-anna
+www.linkedin.com/in/a-yordanova
