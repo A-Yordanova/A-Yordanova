@@ -7,11 +7,10 @@ I started my career in IT in 2012 as a QA engineer and eventually became an IT P
 To pursue this passion, I studied Data Science at Yandex Practicum for 8 months. Now, I am excited and ready to apply my detective mindset and new knowledge to unravel all kinds of data challenges ahead!
 
 ### Key Skills:
-* **Python:** `pandas` `numpy` `matplotlib` `seaborn` `scikit-learn (sklearn)` `scipy` `lightgbm` `catboost` `xgboost` `tensorflow.keras`
-* **Machine Learning:** `Linear/Logistic Regression` `SVM` `Decision Tree` `kNN` `Neural Networks` `KMeans` `Isolation Forest`
-* **Other Techniques:** `statistical tests` `bootstrap` `stochastic gradient descent`
-* **Environments:** `Jupyter Notebook` `Anaconda`
-* **SQL**
+* **Python:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn (sklearn)`, `scipy`, `lightgbm`, `catboost`, `xgboost`, `fastapi`, `optuna`
+* **Machine Learning:** `regression`, `classification`, `computer vision`, `natural language processing (NLP)`, `recommender systems`
+* **Tools:** `Jupyter`, `Anaconda`, `Airflow`, `DVC`, `MLFlow`, `Docker`, `Prometheus`, `Grafana`
+* **Other Skills:** `SQL`, `statistical tests`, `bootstrap`
 
 ### Contact me:
 a.yordanova@yandex.com <br>
