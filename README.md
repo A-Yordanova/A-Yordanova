@@ -6,14 +6,15 @@ I started my career in IT in 2012 as a QA engineer and eventually became an IT P
 
 To pursue this passion, I completed an 8-month Data Science course, a 5-month Machine Learning Engineer course and participated in two projects for non-commercial organizations as a volunteer Data Scientist.
 
-Now, as a full-time Data Scientist, I am excited to apply my detective mindset and knowledge to unravel all kinds of data challenges.
+Now, as an aspiring Data Scientist, I am excited to apply my detective mindset and knowledge to solve real-world problems.
 
 ### Key Skills:
-* **Python:** `pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn (sklearn)`, `scipy`, `lightgbm`, `catboost`, `xgboost`, `fastapi`, `optuna`
-* **Machine Learning:** `regression`, `classification`, `computer vision`, `natural language processing (NLP)`, `recommender systems`
-* **Tools:** `Jupyter`, `Anaconda`, `Airflow`, `DVC`, `MLFlow`, `Docker`, `Prometheus`, `Grafana`
-* **Other Skills:** `SQL`, `statistical tests`, `bootstrap`
+* **Programming:** `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `SciPy`, `LightGBM`, `CatBoost`, `XGBoost`, `Optuna`)
+* **Machine Learning:** `Regression`, `Classification`, `Recommender Systems`, `Model Tuning and Evaluation`
+* **Deep Learning (currently in training)**: `neural networks (FCNN, RNN, CNN)`, `Computer vision`, `PyTorch`
+* **Tools:** `GitHub`, `Jupyter`, `MLFlow`, `ClearML`
+* **Other Skills:** `SQL`, `Analytical Thinking`, `Data Cleaning`, `Data Visualization`, `Presentation Design`
 
 ### Contact me:
-a.yordanova@yandex.com <br>
+a.yordanova.bg@gmail.com <br>
 www.linkedin.com/in/a-yordanova
