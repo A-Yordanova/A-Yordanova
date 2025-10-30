@@ -11,7 +11,7 @@ Now, as an aspiring Data Scientist, I am excited to apply my detective mindset a
 ### Key Skills:
 * **Programming:** `Python` (`Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Scikit-learn`, `SciPy`, `LightGBM`, `CatBoost`, `XGBoost`, `Optuna`)
 * **Machine Learning:** `Regression`, `Classification`, `Recommender Systems`, `Model Tuning and Evaluation`
-* **Deep Learning (currently in training)**: `Neural Networks (FCNN, RNN, CNN)`, `Computer Vision`, `PyTorch`
+* **Deep Learning (currently in training)**: `Neural Networks (FCNN, RNN, CNN, transformers)`, `Computer Vision`, `PyTorch`
 * **Tools:** `GitHub`, `Jupyter`, `MLFlow`, `ClearML`
 * **Other Skills:** `SQL`, `Analytical Thinking`, `Data Cleaning`, `Data Visualization`, `Presentation Design`
 
